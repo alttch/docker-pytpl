@@ -13,7 +13,7 @@ pipeline {
     stage('image') {
       steps {
         script {
-          sh "cd run && docker build -t ${imageName}:${BUILD_NUMBER}"
+          sh "cd run && docker build -t ${imageName}:${BUILD_NUMBER} ."
         }}
     }
     stage('pub') {
