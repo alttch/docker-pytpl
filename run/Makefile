@@ -1,5 +1,5 @@
 all:
-	docker build -t altertech/pytpl .
+	sudo docker build -t altertech/pytpl .
 
 pub:
-	docker push altertech/pytpl
+	sudo docker push altertech/pytpl
