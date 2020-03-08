@@ -10,4 +10,5 @@ jinja2==2.11.1
 gunicorn==20.0.4
 requests==2.23.0
 jsonrpcclient==3.3.5
+python-rapidjson==0.9.1
 filemap==0.0.7
