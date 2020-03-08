@@ -13,7 +13,11 @@ Launcher: supervisord
 
 ## Builds
 
-### 9+
+### 10
+
+* python-rapidjson==0.9.1
+
+### 9
 
 OS: Alpine 3.9.3
 
