@@ -1,6 +1,14 @@
-# pytpl
+# docker-pytpl
 
 Primary Docker container template for Python applications
+
+## Usage
+
+Use in *Dockerfile*:
+
+```
+from altertech/pytpl:<build>
+```
 
 ## System info
 
