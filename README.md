@@ -21,6 +21,10 @@ Launcher: supervisord
 
 ## Builds
 
+### 12
+
+* pyaltt2=0.0.48
+
 ### 10
 
 * python-rapidjson==0.9.1
