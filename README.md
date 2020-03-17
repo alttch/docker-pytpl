@@ -21,6 +21,10 @@ Launcher: supervisord
 
 ## Builds
 
+## 20
+
+* pyaltt2==0.0.55
+
 ## 19
 
 * simplejson==3.17.0
