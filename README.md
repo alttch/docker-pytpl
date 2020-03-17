@@ -21,6 +21,10 @@ Launcher: supervisord
 
 ## Builds
 
+### 18
+
+* pyaltt=0.0.54
+
 ### 16
 
 * pyaltt2=0.0.50
