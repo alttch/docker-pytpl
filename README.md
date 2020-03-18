@@ -21,6 +21,10 @@ Launcher: supervisord
 
 ## Builds
 
+## 29
+
+flask-restplus==0.13.0
+
 ## 28
 
 * pyaltt2==0.0.61
