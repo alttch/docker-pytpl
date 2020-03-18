@@ -21,9 +21,9 @@ Launcher: supervisord
 
 ## Builds
 
-## 30
+## 31
 
-flask-restplus==0.13.0
+flask-restx==0.1.1
 
 ## 28
 
