@@ -21,6 +21,10 @@ Launcher: supervisord
 
 ## Builds
 
+## 34
+
+* pyaltt == 0.0.64
+
 ## 33
 
 flask-restx==0.1.1

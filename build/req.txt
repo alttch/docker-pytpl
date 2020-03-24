@@ -1,4 +1,4 @@
-pyaltt2==0.0.61
+pyaltt2==0.0.64
 werkzeug==0.16.1
 filetype==1.0.5
 psycopg2==2.8.4
