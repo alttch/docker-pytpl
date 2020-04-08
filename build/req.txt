@@ -1,4 +1,4 @@
-pyaltt2==0.0.64
+pyaltt2==0.0.85
 pycrypto==2.6.1
 werkzeug==0.16.1
 filetype==1.0.5

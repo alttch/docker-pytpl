@@ -21,6 +21,10 @@ Launcher: supervisord
 
 ## Builds
 
+## 36
+
+* pyaltt == 0.0.85
+
 ## 35
 
 * pycrypto==2.6.1
